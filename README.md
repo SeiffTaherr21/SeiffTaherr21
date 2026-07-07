@@ -80,35 +80,7 @@ fun_fact: "I turn messy 54K+ row datasets into clean, actionable dashboards"
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SeiffTaherr21&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" />
-</p>
-
----
-
 ## 📂 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/SeiffTaherr21">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=SeiffTaherr21&repo=used-car-price-prediction&theme=dark&hide_border=true&bg_color=0d1117&title_color=E8B86D&icon_color=E8B86D&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/SeiffTaherr21">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=SeiffTaherr21&repo=hotels-dashboard&theme=dark&hide_border=true&bg_color=0d1117&title_color=E8B86D&icon_color=E8B86D&text_color=c9d1d9" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/SeiffTaherr21">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=SeiffTaherr21&repo=bike-rental-demand-dashboard&theme=dark&hide_border=true&bg_color=0d1117&title_color=E8B86D&icon_color=E8B86D&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/SeiffTaherr21">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=SeiffTaherr21&repo=real-estate-market-analytics&theme=dark&hide_border=true&bg_color=0d1117&title_color=E8B86D&icon_color=E8B86D&text_color=c9d1d9" />
-  </a>
-</p>
-
-> ⚠️ الكروت دي بتشتغل بس لو أسماء الـ repos عندك على GitHub مطابقة (`used-car-price-prediction`, `hotels-dashboard`, `bike-rental-demand-dashboard`, `real-estate-market-analytics`). لو الأسماء مختلفة، غيّرها في اللينكات دي بأسماء الـ repos الحقيقية بتاعتك.
 
 | Project | Description | Tech |
 |---|---|---|
