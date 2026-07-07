@@ -35,7 +35,6 @@ degree: B.Sc. Computer Science (2022 - 2026)
 focus: [Data Analysis, Machine Learning, Business Intelligence]
 military_status: Exempted
 currently_exploring: [Advanced Feature Engineering, Time Series Forecasting]
-fun_fact: "I turn messy 54K+ row datasets into clean, actionable dashboards"
 ```
 
 🎓 &nbsp;Studying **Computer Science** (2022 – 2026)  
